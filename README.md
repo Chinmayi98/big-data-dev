@@ -1,4 +1,5 @@
 # Chinmayi Ambati
+![](https://github.com/Chinmayi98/big-data-dev/blob/master/Me.jpg?raw=true)
 
 ## Current
 I am a member of the Fall 2019 batch pursuing my Masters of Applied computer science. I will be graduating this semester.
@@ -12,6 +13,4 @@ I am looking forward to working as a full-stack developer.
 ## Links
 - [LinkedIn Profile](https://www.linkedin.com/in/chinmayi-a-297a43a1/)
 - [GitHub Profile](https://github.com/Chinmayi98)
-
-## My Picture
-![](https://github.com/Chinmayi98/big-data-dev/blob/master/Me.jpg?raw=true)
+- [shell-data-processing](https://github.com/Chinmayi98/shell-data-processing)
